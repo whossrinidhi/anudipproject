@@ -1,1 +1,1 @@
-this repository is for library management system that is a part of the project in anudip.
+this repository is for all the projects that are a part of the project in anudip.
